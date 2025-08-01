@@ -1,6 +1,7 @@
 💼 Aisha Muhammad Ibrahim - Personal Portfolio Website
 
 This is a responsive portfolio website built using only HTML and CSS for the Power Learn Academy First Hackathon. It showcases my background, skills, and project experience as an aspiring web developer.
+
 📌 Features
 - Clean, professional layout and color scheme
 - Responsive design for desktop and mobile
@@ -19,11 +20,12 @@ This is a responsive portfolio website built using only HTML and CSS for the Pow
  📂 Folder Structure
 portfolio
 
-── index.html # Main HTML file
-── style.css # CSS styling
-── image folder
-── cv-aisha.pdf # Downloadable CV
-── README.md # This file
+index.html # Main HTML file
+style.css # CSS styling
+ image folder
+ cv-aisha.pdf # Downloadable CV
+ README.md # This file
+ 
  📬 Contact
 
 - 📧 Email: (mailto:ummienaffo@gmail.com)
